@@ -1,0 +1,319 @@
+Microsoft
+Apple
+linux
+windows95
+windows98
+windows 2000
+windows ME
+windows XP
+windows 7
+windows 8
+windows 10
+macOS
+cmd
+vmware
+Laravel5.8
+Laravel6
+Laravel7
+Laravel8
+php
+python
+centos7
+ubuntu
+2020
+skills
+technology
+raspberry pi zero
+raspberry pi 2 model B
+raspberry pi 3 model B 
+raspberry pi 3 model B +
+raspberry pi 4 model B 
+ラズパイ
+サーバー
+Webサーバー
+DBサーバー
+データベース
+amazon
+amazon SES
+AWS
+EC2
+SQS
+RDS
+CakePHP2
+CakePHP3
+CakePHP4
+Python2
+Python3
+MySQL
+Microsoft SQL Server
+MariaDB
+SQLite
+Post
+PostgreSQL
+SQL
+フレームワーク
+framework
+HTML4
+HTML5
+CSS3
+JavaScript
+TypeScript
+Node.js
+Ruby
+Ruby on Rails
+Express
+Visual Basic
+C#
+C
+C++
+Android
+iPhone
+パソコン
+PC
+マイコン
+マイクロコンピューター
+Firebase
+git
+github
+gitbash
+bitbacket
+SourceTree
+ASP.NET
+ASP.NET MVC
+JAVA
+Tomcat
+Apache
+Nginx
+リバースプロキシ
+チューニング
+インデックス
+Auto Increment
+NULL
+NOT NULL
+Default
+command
+teraterm
+terminal
+コマンドプロンプト
+Echo Show
+サーボモーター
+スイッチ
+湿温度センサー
+ジャンパワイヤ
+ブレッドボード
+LED
+Redmine
+キャッシュ
+Cache
+FTP
+SFTP
+FTPS
+SSH
+https
+http
+SSL
+秘密鍵
+共通鍵
+公開鍵
+ロボット
+証明書
+ドメイン
+サブドメイン
+TSB
+東京スクールオブビジネス
+Vue.js
+Angular
+React
+Kotlin
+Swift
+Objective-C
+COBOL
+Excel
+Word
+PowerPoint
+Office365
+G-Suite
+Go
+Scala
+Rust
+システム開発
+プログラミング
+テスト
+テスト開発
+ドメイン駆動開発
+E2E
+ユニットテスト
+結合テスト
+単体テスト
+プロジェクト
+オブジェクト
+関数
+変数
+定数
+var
+let
+Dim
+Facebook
+Twitter
+Instagram
+YouTube
+Yahoo Japan
+Google
+MSN
+Infoseek
+ビットコイン
+ブロックチェーン
+まつもとゆきひろ
+マーク・ザッカーバーグ
+ビル・ゲイツ
+スティーブ・ジョブズ
+スティーブ・ウォズニアック
+孫正義
+ホリエモン
+西村博之
+三木谷浩史
+Wifi
+ドコモ光
+ソフトバンク光
+藤田晋
+class
+id
+bootstrap3
+bootstrap4
+モーダルダイアログ
+CRUD
+IoT
+Internet of Things
+AI
+ライブラリ
+Motor
+Django
+アルゴリズム
+ジャンゴ
+デュアルディスプレイ
+モニター
+アプリ
+アプリケーション
+プログラミング言語
+Nuxt.js
+サブスクリプション
+Subscription
+Mac Book
+メモリ
+ハードディスク
+HDD
+SSD
+Memory
+Dropbox
+クラウドサービス
+Visual Studio
+Visual Studio Code
+秀丸
+さくらエディタ
+Xampp
+Docker
+VirtualBox
+Firefox
+Google Chrome
+Internet Exproler8
+Internet Exproler9
+Internet Exproler10
+Internet Exproler11
+Microsoft Edge
+Safari
+localhost
+ローカルホスト
+フォルダ
+ディレクトリ
+ファイル
+拡張子
+タイムスタンプ
+string
+integer
+bigint
+smallint
+tinyint
+varchar
+nvarchar
+text
+datetime
+date
+bit
+boolean
+if
+for
+while
+foreach
+iTunes
+winSCP
+CrowdWorks
+USB-TypeA
+USB-TypeC
+USB3.0
+ドワンゴ
+楽天
+角川
+ソフトバンク
+ライブドア
+GMOインターネット
+サイバーエージェント
+アリババ
+ニコニコ動画
+２ちゃんねる
+５ちゃんねる
+2ch
+5ch
+LINE
+Messanger
+百度
+sh
+Pay Pay
+LINE PAY
+ORIGAMI Pay
+微信支付
+支付宝
+UnionPay
+キャッシュレス
+メルカリ
+セブンイレブン
+ローソン
+ポプラ
+ファミリーマート
+AMPM
+サンクス
+サークルK
+ITパスポート
+基本情報技術者試験
+応用情報技術者試験
+データベーススペシャリスト
+セキュリティスペシャリスト
+宅地建物取引士
+fametoys
+site
+ホームページ
+website
+homepage
+階層
+amazonミュージック
+AIスピーカー
+スマートスピーカー
+スマートホーム
+ステッカー
+シリコンバレー
+渋谷
+池袋
+新宿
+東京
+品川
+秋葉原
+上野
+高田馬場
+代々木
+五反田
+大崎
+恵比寿
+高輪ゲートウェイ
+Gateway
+Information Technology
+IT
+ITビジネス学科
